@@ -26,6 +26,8 @@ Licensed under the [MIT License](https://github.com/anuragk16/Phone-book-GUI/blo
 
 ## 🔗 Links :-
 
+Phone_book executable file:- [download link](https://www.mediafire.com/file/xb32ykq03lohsjb/Phone+book.zip/file)
+
 [Coding_Video_Phone_book](https://www.youtube.com/watch?v=cB_rS1YN-mU)
 
 [Youtube](https://www.youtube.com/channel/UCKO4nOXb1ZpmuR8br5fJWBQ)
